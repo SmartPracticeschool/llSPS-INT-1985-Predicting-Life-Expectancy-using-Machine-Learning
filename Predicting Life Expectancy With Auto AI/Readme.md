@@ -2,6 +2,7 @@
 
 Auto AI is provided by IBM Cloud.
 AutoAI automatically runs the Data pre-processing,Automated model selection,Automated feature engineering,Hyperparameter optimization
+
 ##Data pre-processing: -
 
       Most data sets contain different data formats and missing values, but standard machine learning algorithms work with numbers and no missing values. AutoAI applies various algorithms, or estimators, to analyze, clean, and prepare your raw data for machine learning. It automatically detects and categorizes features based on data type, such as categorical or numerical. Depending on the categorization, it uses hyper-parameter optimization to determine the best combination of  strategies for missing value imputation, feature encoding, and feature scaling for your data
