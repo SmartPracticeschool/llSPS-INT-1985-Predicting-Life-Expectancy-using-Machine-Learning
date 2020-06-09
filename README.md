@@ -10,3 +10,7 @@ The Global Health Observatory (GHO) data repository under the World Health Organ
 To get the accurate solutions of the problem. When we train the Machine Learning Model by using more datasets. Then there is possibility of getting accurate results	
 ## Dataset Link: - 
 https://www.kaggle.com/kumarajarshi/life-expectancy-who
+## Node-RED UI Link(Python):-
+https://node-red-lqoxp.eu-gb.mybluemix.net/ui/#!/0?socketid=BBxWjPIMlf20Etr0AAAa
+## Node-RED UI Link(Auto AI):-
+https://node-red-qbiuw.eu-gb.mybluemix.net/ui/#!/0?socketid=FRjfo9FIdUlZZpy4AAAA
