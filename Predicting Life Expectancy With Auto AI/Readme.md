@@ -1,5 +1,5 @@
-I request to everyone, wait for few seconds after giving input at,first time when we will give input to it takes 20-30 seconds to get output and and next when we will give output lessthan 15 seconds.
-This happens beacause of form should give input to model and it should process it and give output via node-red UI
+I request to everyone, wait for few seconds after giving input at,first time when we will give input to it takes 20-30 seconds to get output and and next when we will give input it takes lessthan 15 seconds to get output.
+This happens beacause of form should give input to model and it should process it and give output via node-red UI.
 
 # Predicting Life Expectancy With Auto AI
 
