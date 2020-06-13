@@ -14,3 +14,5 @@ https://www.kaggle.com/kumarajarshi/life-expectancy-who
 https://node-red-lqoxp.eu-gb.mybluemix.net/ui/#!/0?socketid=BBxWjPIMlf20Etr0AAAa
 ## Node-RED UI Link(Auto AI):-
 https://node-red-qbiuw.eu-gb.mybluemix.net/ui/#!/0?socketid=FRjfo9FIdUlZZpy4AAAA
+## Project Demonstration Video:-
+https://drive.google.com/file/d/1jZFLq5mfoYvYnnN9joVmFhMt31Djz07D/view?usp=sharing
